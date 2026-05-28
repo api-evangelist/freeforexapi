@@ -1,0 +1,32 @@
+aid: freeforexapi
+name: FreeForexAPI
+description: "Real-time foreign exchange rates for major currency pairs"
+url: https://freeforexapi.com/Home/Api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Currency Exchange"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Currency Exchange
+  - Public APIs
+apis:
+  - name: FreeForexAPI
+    description: "Real-time foreign exchange rates for major currency pairs"
+    humanURL: https://freeforexapi.com/Home/Api
+    baseURL: https://freeforexapi.com/Home/Api
+    tags:
+      - Currency Exchange
+    properties:
+      - type: Documentation
+        url: https://freeforexapi.com/Home/Api
+common:
+  - type: Website
+    url: https://freeforexapi.com/Home/Api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
