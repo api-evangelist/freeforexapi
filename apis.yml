@@ -35,11 +35,11 @@ x-tier-reason: bulk-registered-from-public-apis
 tags:
   - Currency Exchange
   - Public APIs
+  - Exchange Rates
 apis:
   - name: FreeForexAPI
     description: "Real-time foreign exchange rates for major currency pairs"
     humanURL: https://freeforexapi.com/Home/Api
-    baseURL: https://freeforexapi.com/Home/Api
     tags:
       - Currency Exchange
     properties:
